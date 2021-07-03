@@ -1,6 +1,9 @@
 Torino, a pretty theme for LaTeX-beamer
 =======================================
 
+This is a fork of (https://github.com/barisione/beamer-torino), customized for
+my usage.
+
 Beamer   (http://latex-beamer.sourceforge.net/)   is   a   LaTeX   class
 that allows  you  to  create  presentations.   Beamer  contains  several
 full-featured (but a bit ugly) themes, so I wrote this pretty theme (but
